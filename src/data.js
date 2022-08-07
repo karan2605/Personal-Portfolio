@@ -33,4 +33,4 @@ export const projects = [
     },
   ];
 
-export const skills = ["Python", "Java", "JavaScript", "React.js", "C++", "Solidity", "LLVM", "SQL"];
+export const skills = ["Python", "Java", "JavaScript", "React.js", "C++", "Solidity", "LLVM", "SQL", "Git", "Apache Hadoop and Hive"];
