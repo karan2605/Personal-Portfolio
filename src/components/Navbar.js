@@ -21,6 +21,9 @@ export default function Navbar() {
           <a href="#skills" className="text-xl mr-5 hover:text-white">
             Skills
           </a>
+          <a href="#blog" className="text-xl mr-5 hover:text-white">
+            My Blog!
+          </a>
         </nav>
         <a
           href="#contact"
