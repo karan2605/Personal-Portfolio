@@ -12,6 +12,51 @@ code {
     monospace;
 }
 
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-github {
+  background: #565657;
+  color: white;
+}
+
+.leet {
+  width: 20px;
+  background: url('https://api.iconify.design/simple-icons/leetcode.svg') no-repeat center center / contain;
+  content: url('https://api.iconify.design/simple-icons/leetcode.svg');
+}
+
+.leetBox {
+  padding: 10px;
+  background-color: gold;
+  margin: 5px 2px;
+  display: inline-block;
+}
+
+.leetBox:hover {
+  opacity: 0.7;
+}
+
+.linkbox {
+  display: flex;
+  justify-content: center;
+}
+
+.fa {
+  padding: 15px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
