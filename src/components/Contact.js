@@ -27,6 +27,8 @@ export default function Contact() {
 
   return (
     <section id="contact" className="relative">
+      <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
       <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
         <div className="lg:w-2/3 md:w-1/2 bg-gray-900 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
           <iframe
@@ -72,7 +74,12 @@ export default function Contact() {
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
             Contact Me
           </h2>
-          <p className="leading-relaxed mb-5 text-xl">
+          <div class="linkBox">
+            <a href="https://www.linkedin.com/in/karan-patel-s/" class="fa fa-linkedin"> </a>
+            <a href="https://github.com/karan2605" class="fa fa-github"> </a>
+            <div class="leetBox"><a href="https://leetcode.com/karan2605/" class="leet"> </a></div>
+          </div>
+          <p className="leading-relaxed mb-5 text-xl"> 
             If you have a question for me, or would like to work with me, feel free to fill
             out the form below.
           </p>
