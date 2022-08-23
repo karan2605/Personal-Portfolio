@@ -17,9 +17,10 @@ export default function BlogPost(props) {
             .catch(err => console.log(err));
     });
     
-    return(
+    return (
        <> 
-       {open && <ReactMarkdown className="prose-zinc lg:prose-xl prose-img:rounded-xl prose-headings:bold 
-       prose-a:text-blue-600 prose-h2:font-semibold prose-h1:font-semibold prose-h3:italic prose-blockquote:italic" children={blogPost} />} </>
+       {open && <ReactMarkdown escapeHtml={false} className="prose-zinc lg:prose-xl prose-img:rounded-xl prose-headings:bold 
+       prose-a:text-blue-600 prose-h2:font-semibold prose-h1:font-semibold prose-h3:italic prose-blockquote:italic
+       prose-ol:list-decimal prose-ul:list-disc prose-p: lineHeight-40px" children={blogPost} />} </>
     )
 }
