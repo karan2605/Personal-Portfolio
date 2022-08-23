@@ -45,3 +45,30 @@ export const projects = [
   ];
 
 export const skills = ["Python", "Java", "JavaScript", "React.js", "C++", "Solidity", "LLVM", "SQL", "Git", "Apache Hadoop and Hive"];
+
+export const blogSummary = [
+    {
+      key: "blog1",
+      title: "Blog 1",
+      link: "#blog1",
+      description: "Description 1"
+    },
+    {
+      key: "blog2",
+      title: "Blog 2",
+      link: "#blog2",
+      description: "Description 2"
+    },
+    {
+      key: "blog3",
+      title: "Blog 3",
+      link: "#blog3",
+      description: "Description 3"
+    },
+    {
+      key: "blog4",
+      title: "Blog 4",
+      link: "#blog4",
+      description: "Description 4"
+    }
+  ];
