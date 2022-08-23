@@ -74,10 +74,10 @@ export default function Contact() {
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
             Contact Me
           </h2>
-          <div class="linkBox">
-            <a href="https://www.linkedin.com/in/karan-patel-s/" class="fa fa-linkedin"> </a>
-            <a href="https://github.com/karan2605" class="fa fa-github"> </a>
-            <div class="leetBox"><a href="https://leetcode.com/karan2605/" class="leet"> </a></div>
+          <div className="linkBox">
+            <a href="https://www.linkedin.com/in/karan-patel-s/" className="fa fa-linkedin"> </a>
+            <a href="https://github.com/karan2605" className="fa fa-github"> </a>
+            <div className="leetBox"><a href="https://leetcode.com/karan2605/" className="leet"> </a></div>
           </div>
           <p className="leading-relaxed mb-5 text-xl"> 
             If you have a question for me, or would like to work with me, feel free to fill
