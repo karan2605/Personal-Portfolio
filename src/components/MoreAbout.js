@@ -22,7 +22,7 @@ export default function MoreAbout() {
 
                 In my free time I enjoy weightlifting in the gym and watching sports. Specifically, watching 
                 football, cricket and Formula One. Recently, I have also delved into Leetcode programming to
-                improve my problem solving skills.
+                improve my problem solving skills and to apply my knowledge of data structures and algorithms.
             </p>
             </div>
           </div>
