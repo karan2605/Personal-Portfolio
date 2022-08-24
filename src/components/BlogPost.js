@@ -19,7 +19,7 @@ export default function BlogPost(props) {
     
     return (
        <> 
-       {open && <ReactMarkdown escapeHtml={false} className="prose-zinc lg:prose-xl prose-img:rounded-xl prose-headings:bold 
+       {open && <ReactMarkdown escapeHtml={false} className="prose-neutral lg:prose-xl prose-img:rounded-xl prose-headings:bold 
        prose-a:text-blue-600 prose-h2:font-semibold prose-h1:font-semibold prose-h3:italic prose-blockquote:italic
        prose-ol:list-decimal prose-ul:list-disc prose-p: lineHeight-40px" children={blogPost} />} </>
     )
