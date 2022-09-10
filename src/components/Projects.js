@@ -6,9 +6,7 @@ export default function Projects() {
   const [show, setShow] = useState(-1);
 
   const onClickHandle = (i) => {
-    
     setShow(show === i ? -1 : i);
-  
   };
 
   return (
@@ -21,7 +19,7 @@ export default function Projects() {
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-xl">
             Listed below are all the projects I have worked on over the past few years 
-            at university and outside.
+            at university and outside. Click on a box to view more about a project.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
