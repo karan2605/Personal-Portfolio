@@ -19,6 +19,12 @@ export const projects = [
       key: "gmm"
     },
     {
+      title: "Personal Portfolio Website",
+      subtitle: "Web Development",
+      description: "My personal portfolio website built using React.js and Tailwind CSS, the website includes sections introducing myself, my technical skills and previous projects that I have worked on. I also developed a blog component which displays some blogs which are written in Markdown then converted and formatted to display on the webpage. Finally, there is a contact form at the bottom of the page to allow viewers to contact me if they have a question or wish to work with me.",
+      key: "personalPort"
+    },
+    {
       title: "Mini-C Compiler",
       subtitle: "Compiler Design",
       description: "Designing and writing a compiler written in LLVM using C++ for a subset of the C programming language. Involved implementing the language parser, abstract syntax tree and LLVM IR codegen. Compiler also conducts error reporting.",
@@ -44,7 +50,7 @@ export const projects = [
     },
   ];
 
-export const skills = ["Python", "Java", "JavaScript", "React.js", "C++", "Solidity", "LLVM", "SQL", "Git", "Apache Hadoop and Hive"];
+export const skills = ["Python", "Java", "JavaScript", "React.js", "C++", "Solidity", "LLVM", "SQL", "Git", "Apache Hadoop and Hive", "Kubernetes", "Docker"];
 
 export const blogSummary = [
     {
