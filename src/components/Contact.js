@@ -3,17 +3,16 @@ import React from "react";
 import { AtSymbolIcon } from "@heroicons/react/outline";
 
 export default function Contact() {
-
   return (
     <section id="contact" className="relative">
       <div className="container px-5 py-10 mx-auto">
         <div className="text-center mb-20">
           <AtSymbolIcon className="mx-auto inline-block w-10 mb-4" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
-              Contact Me
+            Contact Me
           </h1>
           <p className="text-xl leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-              Contact me through one of the methods below
+            Contact me through one of the methods below
           </p>
           <div className="bg-gray-900 relative flex flex-wrap py-6 ">
             <div className="lg:w-1/3 px-6">
@@ -38,12 +37,23 @@ export default function Contact() {
               <p className="leading-relaxed">+44 7752 443461</p>
             </div>
             <div className="lg:w-1/3 px-6 mt-4 lg:mt-0">
-              <a href="https://www.linkedin.com/in/karan-patel-s/" className="fa fa-linkedin"> </a>
-              <a href="https://github.com/karan2605" className="fa fa-github"> </a>
-              <div className="leetBox"><a href="https://leetcode.com/karan2605/" className="leet"> </a></div>
+              <a
+                href="https://www.linkedin.com/in/karan-patel-s/"
+                className="fa fa-linkedin"
+              >
+                {" "}
+              </a>
+              <a href="https://github.com/karan2605" className="fa fa-github">
+                {" "}
+              </a>
+              <div className="leetBox">
+                <a href="https://leetcode.com/karan2605/" className="leet">
+                  {" "}
+                </a>
+              </div>
             </div>
           </div>
-        </div>        
+        </div>
       </div>
     </section>
   );

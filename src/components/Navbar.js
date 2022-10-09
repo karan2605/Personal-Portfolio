@@ -24,11 +24,11 @@ export default function Navbar() {
           <a href="#blog" className="text-xl mr-5 hover:text-white">
             Blog
           </a>
-          
         </nav>
         <a
           href="#contact"
-          className="inline-flex items-center bg-red-600 text-white border-0 py-1 px-3 focus:outline-none hover:bg-red-700 rounded text-xl mt-4 md:mt-0">
+          className="inline-flex items-center bg-red-600 text-white border-0 py-1 px-3 focus:outline-none hover:bg-red-700 rounded text-xl mt-4 md:mt-0"
+        >
           Contact Me
           <ArrowRightIcon className="w-4 h-4 ml-1" />
         </a>

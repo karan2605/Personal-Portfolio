@@ -1,14 +1,12 @@
-import Navbar from './components/Navbar';
-import About from './components/About';
-import Projects from './components/Projects';
-import Skills from './components/Skills';
-import Contact from './components/Contact';
-import MoreAbout from './components/MoreAbout';
-import Blog from './components/Blog';
+import Navbar from "./components/Navbar";
+import About from "./components/About";
+import Projects from "./components/Projects";
+import Skills from "./components/Skills";
+import Contact from "./components/Contact";
+import MoreAbout from "./components/MoreAbout";
+import Blog from "./components/Blog";
 
-import {
-  BrowserRouter,
-} from "react-router-dom";
+import { BrowserRouter } from "react-router-dom";
 
 export default function App() {
   return (
