@@ -94,8 +94,8 @@ export const blogSummary = [
   },
   {
     key: "blog4",
-    title: "Blog 4",
+    title: "A Discussion about ZkEVM",
     link: "#blog4",
-    description: "Description 4",
+    description: "A discussion on ZkEVM, the zero-knowlege Ethereum Virtual Machine created by Polygon",
   },
 ];
