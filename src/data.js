@@ -76,21 +76,21 @@ export const skills = [
 export const blogSummary = [
   {
     key: "blog1",
-    title: "Blog 1",
+    title: "Scalability Issues of Ethereum",
     link: "#blog1",
-    description: "Description 1",
+    description: "A discussion of some of the scalability issues surrounding Ethereum",
   },
   {
     key: "blog2",
-    title: "Blog 2",
+    title: "Layer 2 Scaling Solutions on Ethereum",
     link: "#blog2",
-    description: "Description 2",
+    description: "A discussion of what Layer 2 scaling solutions are on Ethereum",
   },
   {
     key: "blog3",
-    title: "Blog 3",
+    title: "Automated Market Makers (AMM's)",
     link: "#blog3",
-    description: "Description 3",
+    description: "A discussion on what AMM's are, specifically comparing two AMM's (Uniswap and Curve) looking at their advantages and disadvantages",
   },
   {
     key: "blog4",
