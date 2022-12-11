@@ -1,7 +1,7 @@
 # A Discussion about ZkEVM
 ### 17-11-2022
 
-![Ethereum Logo](../../../../public/blog/blog4/download.png)
+![ZkEVM Logo](../../../../public/blog/blog4/download.png)
 
 ZkEVM is a highly-scalable, efficient, and secure implementation of Ethereum's virtual machine (EVM) that uses zk-SNARKs to enable private, trustless computations on the Ethereum blockchain. This allows for the creation of privacy-preserving smart contracts and decentralized applications (dApps) that can be executed with verifiable correctness and without revealing any sensitive information to the rest of the network.
 
