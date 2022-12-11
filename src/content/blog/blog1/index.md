@@ -1,6 +1,8 @@
 # Scalability Issues of Ethereum
 ### 23-08-2022
 
+![Ethereum Logo](../../../../public/blog/blog1/ethereum-logo-portrait-black-gray.png)
+
 Ethereum, the popular blockchain platform, has been plagued by scalability issues since its inception. These issues have hindered the platform's ability to handle large amounts of transactions, leading to slow transaction times and high fees.
 
 One of the key reasons for Ethereum's scalability issues is its use of the proof-of-work (PoW) consensus algorithm. PoW is a computationally intensive process that requires miners to compete against each other to solve complex mathematical puzzles. While this ensures the security of the network, it also results in a limited number of transactions that can be processed per second.
