@@ -1,7 +1,7 @@
 # Automated Market Makers (AMM's)
 ### 27-10-2022
 
-![Layer 2 Logo](../../../../public/blog/blog3/Curve-finance-vs-Uniswap-1024x614.jpeg)
+![Uniswap and Curve Logo](../../../../public/blog/blog3/Curve-finance-vs-Uniswap-1024x614.jpeg)
 
 Automated Market Makers (AMMs) are a new class of decentralized exchange (DEX) that has gained popularity in recent years. AMMs, such as Uniswap and Curve, allow users to buy and sell cryptocurrencies in a decentralized manner, without the need for a central authority or order book.
 
